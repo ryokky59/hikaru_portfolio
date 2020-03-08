@@ -103,7 +103,7 @@ li {
   font-family: 'Cormorant Garamond', serif;
   font-size: 88px;
   font-weight: normal;
-  color: #f39ac7;
+  color: #4169e1;
   line-height: 1;
   letter-spacing: .1em;
 }
@@ -185,7 +185,7 @@ li {
   font-size: 36px;
   line-height: 1;
   margin-bottom: 10px;
-  color: #f39ac7;
+  color: #4169e1;
 }
 
 .section .section-desc {
@@ -362,7 +362,7 @@ li {
 #skill .rate:after {
   overflow: hidden;
   white-space: nowrap;
-  color: #f181b4;
+  color: #4169e1;
 }
 
 #skill .rate1:after {
