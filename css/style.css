@@ -65,7 +65,7 @@ li {
 }
 
 #contents {
-  padding: 100px 0;
+  /* padding: 100px 0; */
 }
 
 /*--------------------------------
@@ -82,7 +82,7 @@ li {
   -webkit-align-items: center;
   -ms-align-items: center;
   align-items: center;
-  height: 550px;
+  height: 400px;
 }
 
 #header .logo {
@@ -169,7 +169,7 @@ li {
 ---------------------------------*/
 
 .section .inner {
-  padding: 80px 10px;
+  padding: 50px 10px;
 }
 
 .section .section-title-block {
@@ -239,7 +239,7 @@ li {
 }
 
 #works .card {
-  margin-bottom: 50px;
+  margin: 30px;
 }
 
 #works .card-image {
@@ -269,7 +269,7 @@ li {
   flex-wrap: wrap;
   -webkit-box-pack: justify;
   -ms-flex-pack: justify;
-  justify-content: space-between;
+  justify-content: center;
 }
 
 /*--------------------------------
